@@ -4,15 +4,8 @@
         <description><![CDATA[Aldora Divers]]></description>
         <link>https://thegrid.ai/aldora-divers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 04:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 04:14:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aldora-divers/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b15d52cb-3d0c-4c01-b7c6-73261ecc0395.jpg">]]></description>
-            <link>https://thegrid.ai/aldora-divers/6c0c7dd9-a18f-488f-b18d-030822167701/index.html</link>
-            <guid isPermaLink="false">6c0c7dd9-a18f-488f-b18d-030822167701</guid>
-            <pubDate>Mon, 27 Jun 2016 04:14:45 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8d877c8-b5e6-4be6-803e-6fa68244414d.jpg">]]></description>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/aldora-divers/5b82aaf8-454e-49c0-aaba-694b2e0fdc88/index.html</link>
             <guid isPermaLink="false">5b82aaf8-454e-49c0-aaba-694b2e0fdc88</guid>
             <pubDate>Mon, 27 Jun 2016 04:14:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af978790-b214-4612-8d3f-84b239032100.jpg">]]></description>
+            <link>https://thegrid.ai/aldora-divers/11acf748-e1bc-4ccb-8c7e-0d28da9460ef/index.html</link>
+            <guid isPermaLink="false">11acf748-e1bc-4ccb-8c7e-0d28da9460ef</guid>
+            <pubDate>Mon, 27 Jun 2016 04:14:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
