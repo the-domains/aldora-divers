@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Aldora Divers]]></title>
         <description><![CDATA[Aldora Divers]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aldora-divers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 03:16:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 27 Jun 2016 03:16:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aldora-divers/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95bd6578-1765-4ee9-b5ce-b64a27dc76d5.jpg">]]></description>
+            <link>https://thegrid.ai/aldora-divers/c2764aaa-b416-428c-b7d1-a83100e9e1f0/index.html</link>
+            <guid isPermaLink="false">c2764aaa-b416-428c-b7d1-a83100e9e1f0</guid>
+            <pubDate>Mon, 27 Jun 2016 03:16:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a97a2ca5-282e-4942-b9d5-1d2bade94ba8.jpg">]]></description>
-            <link>undefined9a1021a9-92f4-4f7e-9333-9b57020c2b5b/index.html</link>
+            <link>https://thegrid.ai/aldora-divers/9a1021a9-92f4-4f7e-9333-9b57020c2b5b/index.html</link>
             <guid isPermaLink="false">9a1021a9-92f4-4f7e-9333-9b57020c2b5b</guid>
             <pubDate>Mon, 27 Jun 2016 03:16:30 GMT</pubDate>
         </item>
