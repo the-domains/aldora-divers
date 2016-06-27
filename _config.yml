@@ -6,9 +6,11 @@ color:
   saturation: 0.7957177262287587
   rhythmicContrast: 0.93121277843602
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
 name: Aldora Divers
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a088a692-b9ff-4672-bd12-6300ec63bfa5.png
