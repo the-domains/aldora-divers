@@ -1,4 +1,3 @@
-layout_spectrum: 0.660039619076997
 typography_spectrum: 0.5498180519789457
 color:
   brandStrength: 0.1601053741760552
@@ -11,6 +10,12 @@ color:
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
-name: Aldora Divers
+layout_spectrum: 0.660039619076997
+author:
+  name: Memo
+  email: frontdesk@aldora.com
+  url: aldora.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a088a692-b9ff-4672-bd12-6300ec63bfa5.png
+name: Aldora Divers
+title: '"only the best of Cozumel"'
